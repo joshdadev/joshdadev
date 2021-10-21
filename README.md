@@ -2,11 +2,11 @@
 ### hello, im josh
 
 
-## full time procrastinator, half time coder, and half time student
+## i like coding
 
 - i like discord bots
 - i don't have any pronouns to refer to with, so don't refer to me
-- bot/web developer at ClientLabs
+- youtuber as well, i guess?
 
 ### Connect with me:
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.joshposh.xyz)
