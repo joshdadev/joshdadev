@@ -1,4 +1,6 @@
-![Header](https://images-ext-2.discordapp.net/external/qPCYEx-jAbov6KFwUNHcRYThb7SVMDjwQAOLVCNtS-g/https/media.discordapp.net/attachments/791510618284752897/904583829556166697/My_banner.gif "Header")
+<p align="center">
+  <img src="https://images-ext-2.discordapp.net/external/qPCYEx-jAbov6KFwUNHcRYThb7SVMDjwQAOLVCNtS-g/https/media.discordapp.net/attachments/791510618284752897/904583829556166697/My_banner.gif" alt="header"/>
+</p>
 
 
 ## i like coding
