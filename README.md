@@ -1,5 +1,4 @@
-
-### hello, im josh
+![Header](https://images-ext-2.discordapp.net/external/qPCYEx-jAbov6KFwUNHcRYThb7SVMDjwQAOLVCNtS-g/https/media.discordapp.net/attachments/791510618284752897/904583829556166697/My_banner.gif "Header")
 
 
 ## i like coding
