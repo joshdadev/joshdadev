@@ -2,6 +2,8 @@
   <img src="https://media.discordapp.net/attachments/798060351353520148/904586036858982460/output-onlinegiftools.gif" alt="header"/>
 </p>
 
+---
+
 # I am josh.
 Hey there, I am josh or Joshua (call me whatever). I am a <del> professional </del> average Web Designer, Discord Bot developer and Graphic Designer
 
