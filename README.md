@@ -5,9 +5,8 @@
 
 ## i like coding
 
-- i like discord bots
-- i don't have any pronouns to refer to with, so don't refer to me
-- youtuber as well, i guess?
+![my stats](https://github-readme-stats.vercel.app/api?username=joshdadev)
+
 
 ### Connect with me:
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.joshposh.xyz)
