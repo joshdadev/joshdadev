@@ -2,21 +2,10 @@
   <img src="https://media.discordapp.net/attachments/798060351353520148/904586036858982460/output-onlinegiftools.gif" alt="header"/>
 </p>
 
----
-
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joshdadev" alt="github stats"></br>
   </br></p>
-
-
-
-### Connect with me:
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.joshposh.xyz)
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discordapp.com/users/773483375751069696)
-
-
-<br />
+---
 
 ### Languages and Tools:
 
