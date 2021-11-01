@@ -5,7 +5,7 @@
 
 ## i like coding
 
-![my stats](https://github-readme-stats.vercel.app/api?username=joshdadev)    ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshdadev&layout=compact))
+![my stats](https://github-readme-stats.vercel.app/api?username=joshdadev)    
 
 
 ### Connect with me:
