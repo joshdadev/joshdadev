@@ -3,9 +3,11 @@
 </p>
 
 
-## i like coding
+## i like coding 
 
-![my stats](https://github-readme-stats.vercel.app/api?username=joshdadev)    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshdadev" alt="header"/>
+</p>  
 
 
 ### Connect with me:
