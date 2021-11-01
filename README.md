@@ -9,8 +9,7 @@
   
 ---
 
-# I'm Josh.
-Thats all you need to know about me.
+### I am a <del>professional</del> average discord bot developer, web developer and a graphic designer.
 
 ### Languages and Tools:
 
