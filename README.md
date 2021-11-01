@@ -10,7 +10,7 @@
 ---
 
 # I'm Josh.
-## Thats all you need to know about me.
+Thats all you need to know about me.
 
 ### Languages and Tools:
 
