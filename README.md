@@ -13,9 +13,9 @@
 I use mainly discord.js, a wrapper of javascript to make discord bots. I am also interested in web development and use HTML, CSS as my main tools. I am in the process of learning python as well. I do fine in graphic designing as well.
 
 ### Projects
-- [MurphyMusic, My discord bot][https://joshposh.xyz/murphymusic]
+- [MurphyMusic, My discord bot](https://joshposh.xyz/murphymusic)
 - [My portfolio](https://joshposh.xyz/)
-- [A portfolio I made for someone else](https://that1catofficial.github.io/that1catofficial)
+- [A portfolio I made for someone else](https://that1catofficial.github.io/that1catofficial)<br>
 and more to come..
 
 
