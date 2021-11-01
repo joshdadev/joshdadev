@@ -4,12 +4,10 @@
 
 ---
 
-# I am josh.
-Hey there, I am josh or Joshua (call me whatever). I am a <del> professional </del> average Web Designer, Discord Bot developer and Graphic Designer
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joshdadev" alt="github stats"></br>
+  </br></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshdadev" alt="header"/>
-</p>  
 
 
 ### Connect with me:
