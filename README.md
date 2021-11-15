@@ -9,7 +9,8 @@
   
 ---
 
-### I am a <del>professional</del> average discord bot developer, web developer and a graphic designer.
+### Developer at [@TeamClientlabs](https://github.com/teamclientlabs)
+### I am a <del>professional</del> average discord bot developer, web developer and a graphic designer. 
 I use mainly discord.js, a wrapper of javascript to make discord bots. I am also interested in web development and use HTML, CSS as my main tools. I am in the process of learning python as well. I do fine in graphic designing as well.
 
 ### Projects
